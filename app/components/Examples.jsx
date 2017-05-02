@@ -4,7 +4,7 @@ var Examples = (props) => {
 	return (
 		<div>
 			<h3>Examples Controller!</h3>
-			<p>Paragraph</p>
+			<p>Examples</p>
 		</div>
 	)
 }
